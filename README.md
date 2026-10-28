@@ -116,22 +116,26 @@ plt.subplot(224); plt.hist(img_eq.ravel(),256,range = [0, 256]); plt.title('Hist
 ##  Output:
 
 ### ORIGINAL IMAGE:
-<img width="786" height="492" alt="image" src="https://github.com/user-attachments/assets/1e5a8475-714f-4751-a689-8cdd99baad1e" />
+<img width="731" height="503" alt="image" src="https://github.com/user-attachments/assets/4fa26338-8150-4d65-89bd-9539475776da" />
 
-<img width="839" height="545" alt="image" src="https://github.com/user-attachments/assets/826e4b36-a591-4f65-8130-21d2cec76059" />
+
+<img width="830" height="498" alt="image" src="https://github.com/user-attachments/assets/3d832526-3fc0-4e65-96f0-f6672e91e3c3" />
 
 
 ### Equalised Histogram:
 
-<img width="873" height="548" alt="image" src="https://github.com/user-attachments/assets/4126ae0f-55dd-4658-9ba2-20dec279d6dc" />
+<img width="785" height="535" alt="image" src="https://github.com/user-attachments/assets/dbd06234-ff3d-4dc7-aa91-ffdf735d2bdd" />
 
-<img width="962" height="511" alt="image" src="https://github.com/user-attachments/assets/b910bbe6-d4e3-4887-b2c0-04fa2a8ae9af" />
+
+<img width="703" height="493" alt="image" src="https://github.com/user-attachments/assets/0f67aa11-cfd6-4dcf-a9ff-74f6b2c54b02" />
+
 
 ### Histogram of any channel of Color Image:
-<img width="787" height="272" alt="image" src="https://github.com/user-attachments/assets/1b97f53a-e1da-44c2-b285-6c897b340f50" />
+<img width="730" height="380" alt="image" src="https://github.com/user-attachments/assets/83ff7355-a6a0-455b-bca7-12b917cea960" />
 
 ### Histogram Equalization of Color Image:
-<img width="1321" height="534" alt="image" src="https://github.com/user-attachments/assets/b8abe0bf-f37c-496e-a361-81ede475843e" />
+<img width="967" height="402" alt="image" src="https://github.com/user-attachments/assets/699fdbb3-0497-457b-a872-9fdbaefaae6e" />
+
 
 
 
